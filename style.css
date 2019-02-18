@@ -1,0 +1,15 @@
+.div1 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #534485;
+}
+div{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+.li {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+}
